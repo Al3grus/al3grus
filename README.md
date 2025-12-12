@@ -1,9 +1,6 @@
-# 👋 Hi, I'm Al3grus
+# 👋 Hi, I'm Al3grus, a **Junior Cybersecurity Professional | eJPT Certified**
 
-**Junior Cybersecurity Professional | eJPT Certified**
-
-I'm a cybersecurity enthusiast with hands-on experience in cryptographic operations (Mastercard) and compliance/fraud detection (Binance). After working across blockchain, finance, and payment industries, I transitioned fully into cybersecurity through an intensive 6-month bootcamp and recently earned my **eJPT certification with a 97% score**.
-
+After working across blockchain, finance, and payment industries, I transitioned fully into cybersecurity through an intensive 6-month bootcamp and recently earned my eJPT certification with a 97% score.
 My background spans both offensive and defensive security — from penetration testing and vulnerability assessment to digital forensics and incident response. I'm driven by the challenge of securing critical systems and helping protect organizations across Europe.
 
 ## 🎯 What I'm Focused On
