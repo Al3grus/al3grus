@@ -13,7 +13,7 @@ I'm driven by the challenge of securing critical systems and helping protect org
 
 ## 🔐 Featured Work
 
-📂 **[Cybersecurity Portfolio](https://github.com/Al3grus/Cybersecurity-Portfolio)** — Comprehensive documentation of my red team and blue team projects and tools
+📂 **[Cybersecurity Portfolio](https://github.com/Al3grus/Cybersecurity-Portfolio)** | Comprehensive documentation of my red team and blue team projects and tools
 
 🏆 **TryHackMe**: Top 4% globally (3M+ users) — [Profile](https://tryhackme.com/p/Al3grus)
 
