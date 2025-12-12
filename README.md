@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Al3grus
+# Hey there, I'm Al3grus 👋
 
 ```Junior Cybersecurity Professional | eJPT Certified```
 
