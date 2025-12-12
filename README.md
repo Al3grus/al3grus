@@ -20,10 +20,10 @@ My background spans both offensive and defensive security — from penetration t
 
 ## 🛠️ Technical Skills
 
-**Offensive Security:** Metasploit | Nmap | Burp Suite | Nessus | Exploitation frameworks | OWASP Top 10
-**Defensive Security:** Wireshark | Snort IDS | YARA | PCAP Analysis | DFIR | MITRE ATT&CK | Splunk (learning)
-**Programming & Scripting:** Python | Bash | PowerShell | SQL
-**Systems:** Windows | Linux | macOS | Docker | Git
+- **Offensive Security:** Metasploit | Nmap | Burp Suite | Nessus | Exploitation frameworks | OWASP Top 10
+- **Defensive Security:** Wireshark | Snort IDS | YARA | PCAP Analysis | DFIR | MITRE ATT&CK | Splunk (learning)
+- **Programming & Scripting:** Python | Bash | PowerShell | SQL
+- **Systems:** Windows | Linux | macOS | Docker | Git
 
 ---
 
