@@ -1,6 +1,6 @@
-# 👨🏻‍💻 Al3grus
+# 👋 Hi, I'm Al3grus
 
-`**Junior Cybersecurity Professional | eJPT Certified**`
+```Junior Cybersecurity Professional | eJPT Certified```
 
 After working across blockchain, finance, and payment industries, I transitioned fully into cybersecurity through an intensive 6-month bootcamp and recently earned my **eJPT certification** with a **97% score**.
 I'm driven by the challenge of securing critical systems and helping protect organizations across Europe.
