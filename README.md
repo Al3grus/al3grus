@@ -2,8 +2,8 @@
 
 **Junior Cybersecurity Professional | eJPT Certified**
 
-After working across blockchain, finance, and payment industries, I transitioned fully into cybersecurity through an intensive 6-month bootcamp and recently earned my eJPT certification with a 97% score.
-My background spans both offensive and defensive security — from penetration testing and vulnerability assessment to digital forensics and incident response. I'm driven by the challenge of securing critical systems and helping protect organizations across Europe.
+After working across blockchain, finance, and payment industries, I transitioned fully into cybersecurity through an intensive 6-month bootcamp and recently earned my **eJPT certification** with a **97% score**.
+I'm driven by the challenge of securing critical systems and helping protect organizations across Europe.
 
 ## 🎯 What I'm Focused On
 
@@ -17,6 +17,3 @@ My background spans both offensive and defensive security — from penetration t
 
 🏆 **TryHackMe**: Top 4% globally (3M+ users) — [Profile](https://tryhackme.com/p/Al3grus)
 
----
-
-*Open to opportunities across the EU. Let's build a more secure digital world together.*
