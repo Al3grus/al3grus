@@ -4,7 +4,9 @@
 
 Junior cybersecurity professional with hands-on background in cryptographic operations (Mastercard) and compliance/fraud detection (AML/KYC - Binance).
 
-Recently completed an intensive cybersecurity bootcamp (6 months) with practical training in penetration testing, digital forensics, and red/blue team operations. eJPT (Junior Penetration Tester) certified (Nov 2025) with 97% score. Experienced in high-security environments across blockchain, financial, and payment industries. 
+Recently completed an intensive cybersecurity bootcamp (6 months) with practical training in penetration testing, digital forensics, and red/blue team operations. eJPT (Junior Penetration Tester) certified (Nov 2025) with 97% score.
+
+Experienced in high-security environments across blockchain, financial, and payment industries. 
 
 ## 🎯 What I'm Focused On
 
