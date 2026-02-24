@@ -1,9 +1,10 @@
-# Hi there, I'm Al3grus 👋
+# Hi there, I'm Ricardo 👋
 
 ```Junior Cybersecurity Professional | eJPT Certified```
 
-After working across blockchain, finance, and payment industries, I transitioned fully into cybersecurity through an intensive 6-month bootcamp and recently earned my **eJPT certification** with a **97% score**.
-I'm driven by the challenge of securing critical systems and helping protect organizations across Europe.
+Junior cybersecurity professional with hands-on background in cryptographic operations (Mastercard) and compliance/fraud detection (AML/KYC - Binance).
+
+Recently completed an intensive cybersecurity bootcamp (6 months) with practical training in penetration testing, digital forensics, and red/blue team operations. eJPT (Junior Penetration Tester) certified (Nov 2025) with 97% score. Experienced in high-security environments across blockchain, financial, and payment industries. 
 
 ## 🎯 What I'm Focused On
 
@@ -16,4 +17,12 @@ I'm driven by the challenge of securing critical systems and helping protect org
 📂 **[Cybersecurity Portfolio](https://github.com/Al3grus/Cybersecurity-Portfolio)**  |  Comprehensive documentation of my red team and blue team projects and tools
 
 🏆 **TryHackMe**: Top 4% globally (3M+ users)  |  [Profile](https://tryhackme.com/p/Al3grus)
+
+## Home-Lab
+
+- Home network with VLAN segmentation (main/guest/IoT isolation)
+- Raspberry Pi 5 with Pi-hole monitoring daily DNS queries for malicious domains
+- Network Attached Storage (NAS) with encrypted volumes and role-based access controls
+- WireGuard VPN server with certificate-based authentication for secure global access
+- Active testing environment with vulnerable VMs (Metasploitable, DVWA, custom Windows domains)
 
