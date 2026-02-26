@@ -26,5 +26,5 @@ Experienced in high-security environments across blockchain, financial, and paym
 - Raspberry Pi 5 with Pi-hole monitoring daily DNS queries for malicious domains
 - Network Attached Storage (NAS) with encrypted volumes and role-based access controls
 - WireGuard VPN server with certificate-based authentication for secure global access
-- Active testing environment with vulnerable VMs (Metasploitable, DVWA, custom Windows domains)
+- Active testing environment with vulnerable VMs (Metasploitable, DVWA)
 
