@@ -1,6 +1,6 @@
 # Hi there, I'm Ricardo 👋
 
-```Junior Cybersecurity Professional | Security Operations | Penetration Tester - eJPT 97% | Open to SOC & Consulting Roles```
+```Junior Cybersecurity Professional | Security Operations | eJPT 97% | Open to SOC & Consulting Roles```
 
 Junior cybersecurity professional with hands-on background in cryptographic operations (Mastercard) and compliance/fraud detection (AML/KYC - Binance).
 
