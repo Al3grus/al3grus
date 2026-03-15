@@ -16,7 +16,7 @@ Experienced in high-security environments across blockchain, financial, and paym
 ## 🔐 Featured Work
 
 📂 **[Cybersecurity Portfolio](https://github.com/Al3grus/Cybersecurity-Portfolio)**  |  Comprehensive documentation of my red team and blue team projects and tools
-
+✍️ **[Blog](https://al3grus.github.io)**  |  CTF writeups, certifications & cybersecurity project documentation
 🏆 **TryHackMe**: Top 4% globally (3M+ users)  |  [Profile](https://tryhackme.com/p/Al3grus)
 
 ## Home-Lab
