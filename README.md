@@ -18,8 +18,7 @@ Experienced in high-security environments across blockchain, financial, and paym
 🛡️ **[Argus SOC](https://github.com/Al3grus/Argus-SOC)**  |  AI-augmented SOC on Raspberry Pi — 
 Wazuh · Suricata · Claude API triage · WireGuard MSSP topology *(in development)*
 
-📂 **[Cybersecurity Portfolio](https://github.com/Al3grus/Cybersecurity-Portfolio)**  |  
-Comprehensive documentation of my red team and blue team projects and tools
+📂 **[Cybersecurity Portfolio](https://github.com/Al3grus/Cybersecurity-Portfolio)**  |  Comprehensive documentation of my red team and blue team projects and tools
 
 ✍️ **[Blog](https://al3grus.github.io)**  |  CTF writeups, certifications & cybersecurity project 
 documentation
