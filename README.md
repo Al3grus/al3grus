@@ -1,5 +1,5 @@
 # Hi there, I'm Ricardo 👋
-```Cybersecurity Analyst | eJPT 97% | SOC & Security Operations | Mastercard · Binance | Brussels```
+```Cybersecurity Analyst | eJPT 97% | Security Operations | Mastercard · Binance | Brussels```
 
 Junior cybersecurity professional with hands-on background in cryptographic operations (Mastercard) 
 and compliance/fraud detection (AML/KYC - Binance).
