@@ -25,13 +25,18 @@ documentation
 
 🏆 **TryHackMe**: Top 4% globally (3M+ users)  |  [Profile](https://tryhackme.com/p/Al3grus)
 
-## Home-Lab
-- **[Argus SOC](https://github.com/Al3grus/Argus-SOC)** *(in development)* — AI-augmented Security 
-  Operations Center: two-node MSSP topology (Pi 5 + Pi 3B+), Wazuh SIEM, Suricata NIDS with SPAN 
-  port, Claude API alert triage, Cowrie honeypot, WireGuard VPN backhaul
-- Home network with VLAN segmentation (main/guest/IoT isolation)
-- Raspberry Pi 5 with Pi-hole monitoring daily DNS queries for malicious domains
-- Network Attached Storage (NAS) with encrypted volumes and role-based access controls
-- WireGuard VPN server with certificate-based authentication for secure global access
-- Active testing environment with vulnerable VMs (Metasploitable, DVWA)
+
+## 🖥️ Home Lab — Argus SOC
+Currently building a three-tier AI-augmented SOC that mirrors real MSSP/MDR infrastructure:
+
+**[Argus SOC](https://github.com/Al3grus/Argus-SOC)** *(in development)*
+- **Hetzner VPS (argus-soc)** — Cloud SOC platform: Wazuh SIEM (Manager + Indexer + Dashboard), 
+  n8n workflow engine, Velociraptor DFIR, Claude API alert triage. Server in Helsinki, Finland — GDPR compliant.
+- **Pi 5 (argus-central)** — Home infrastructure: Pi-hole DNS, WireGuard VPN server, 
+  Grafana dashboards, MediaMTX RTSP streaming, Frigate AI camera detection
+- **Pi 3B+ (argus-edge-01)** — Remote edge sensor: Wazuh Agent, Suricata NIDS (SPAN port), 
+  Zeek protocol analysis, Cowrie SSH honeypot, Velociraptor agent
+- **Netgear GS105E** — Managed switch with SPAN port mirroring for full Lab VLAN visibility
+- NAS with encrypted volumes and role-based access controls
+- Active testing environment with vulnerable VMs (Metasploitable 2, DVWA)
 
