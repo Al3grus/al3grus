@@ -8,11 +8,15 @@ penetration testing, DFIR, and red/blue team operations. eJPT (Junior Penetratio
 (Nov 2025) with 97% score.
 Experienced in high-security environments across blockchain, financial, and payment industries.
 
+---
+
 ## 🎯 What I'm Focused On
 - **Seeking junior cybersecurity roles** (SOC Analyst, Detection Engineering, Blue Team) across the EU
 - **Currently building [Argus SOC](https://github.com/Al3grus/Argus-SOC)** — an AI-augmented Security 
   Operations Center on Raspberry Pi hardware
 - Building practical skills through **CTF challenges** and **home lab projects**
+
+---
 
 ## 🔐 Featured Work
 🛡️ **[Argus SOC](https://github.com/Al3grus/Argus-SOC)**  |  AI-augmented SOC on Raspberry Pi — 
@@ -25,6 +29,7 @@ documentation
 
 🏆 **TryHackMe**: Top 4% globally (3M+ users)  |  [Profile](https://tryhackme.com/p/Al3grus)
 
+---
 
 ## 🖥️ Home Lab — Argus SOC
 Currently building a three-tier AI-augmented SOC that mirrors real MSSP/MDR infrastructure:
