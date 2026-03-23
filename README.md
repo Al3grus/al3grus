@@ -42,6 +42,5 @@ Currently building a three-tier AI-augmented SOC that mirrors real MSSP/MDR infr
 - **Pi 3B+ (argus-edge-01)** — Remote edge sensor: Wazuh Agent, Suricata NIDS (SPAN port), 
   Zeek protocol analysis, Cowrie SSH honeypot, Velociraptor agent
 - **Netgear GS105E** — Managed switch with SPAN port mirroring for full Lab VLAN visibility
-- NAS with encrypted volumes and role-based access controls
 - Active testing environment with vulnerable VMs (Metasploitable 2, DVWA)
 
