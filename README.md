@@ -1,8 +1,8 @@
 # Hi there, I'm Ricardo 👋
 ```Cybersecurity Analyst | eJPT 97% | Security Operations | Mastercard · Binance | Brussels```
 
-Junior cybersecurity professional with hands-on background in cryptographic operations (Mastercard) 
-and compliance/fraud detection (AML/KYC - Binance).
+Junior cybersecurity professional with hands-on background in cryptographic operations (Mastercard), 
+fraud investigation and OSINT-based pattern analysis (AML/KYC - Binance)
 Recently completed an intensive cybersecurity bootcamp (6 months) with practical training in 
 penetration testing, DFIR, and red/blue team operations. eJPT (Junior Penetration Tester) certified 
 (Nov 2025) with 97% score.
@@ -11,7 +11,7 @@ Experienced in high-security environments across blockchain, financial, and paym
 ---
 
 ## 🎯 What I'm Focused On
-- **Seeking junior cybersecurity roles** (SOC Analyst, Detection Engineering, Blue Team) across the EU
+- **Seeking junior cybersecurity roles** (SOC Analyst, Security Operations, Blue Team) across the EU
 - **Currently building [Argus SOC](https://github.com/Al3grus/Argus-SOC)** — an AI-augmented Security 
   Operations Center on Raspberry Pi hardware
 - Building practical skills through **CTF challenges** and **home lab projects**
