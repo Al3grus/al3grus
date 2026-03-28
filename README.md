@@ -31,10 +31,9 @@ Currently building a three-tier AI-augmented SOC that mirrors real MSSP/MDR infr
 **[Argus SOC](https://github.com/Al3grus/Argus-SOC)** *(in development)*
 - **Hetzner VPS (argus-soc)** — Cloud SOC platform: Wazuh SIEM (Manager + Indexer + Dashboard), 
   n8n workflow engine, Velociraptor DFIR, Claude API alert triage. Server in Helsinki, Finland — GDPR compliant.
-- **Pi 5 (argus-central)** — Home infrastructure: Pi-hole DNS, WireGuard VPN server, 
-  Grafana dashboards, MediaMTX RTSP streaming, Frigate AI camera detection
-- **Pi 3B+ (argus-edge-01)** — Remote edge sensor: Wazuh Agent, Suricata NIDS (SPAN port), 
+- **Pi 5 (argus-central)** — Client infrastructure: Pi-hole DNS, WireGuard VPN server, 
+  Grafana dashboards, MediaMTX RTSP streaming, Frigate AI camera detection, Metasploitable 2 + DVWA (Docker)
+- **Pi 3B+ (argus-edge-01)** — MSSP remote edge sensor: Wazuh Agent, Suricata NIDS (SPAN port), 
   Zeek protocol analysis, Cowrie SSH honeypot, Velociraptor agent
-- **Netgear GS105E** — Managed switch with SPAN port mirroring for full Lab VLAN visibility
-- Active testing environment with vulnerable VMs (Metasploitable 2, DVWA)
-
+- **Cisco SG300-10MP** — Managed switch with hardware SPAN port mirroring for full network visibility
+- **ThinkPad T480 (red team)** — Kali Linux VM on isolated guest WiFi, simulating an external attacker
