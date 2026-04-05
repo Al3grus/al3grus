@@ -1,22 +1,31 @@
 # Hi there, I'm Ricardo 👋
+
 ```Cybersecurity Analyst | eJPT 97% | Security Operations | Mastercard · Binance | Brussels```
+
 Security professional with a background in high-security operational environments at Mastercard (cryptographic operations, PKI, PCI compliance) and Binance (AML/KYC fraud investigation, OSINT, pattern analysis and risk escalation). I completed an intensive 6-month cybersecurity bootcamp covering SOC workflows, SIEM operations, PCAP analysis, digital forensics, incident response, and MITRE ATT&CK framework, alongside networking fundamentals and red team methodologies. I hold the eJPT certification (97% score) and ISC2 Certified in Cybersecurity (CC). EU national (Portuguese), Brussels-based, and eligible for EU SECRET security clearance.
+
 ---
+
 ## 🎯 What I'm Focused On
 - Targeting SOC Analyst and Security Operations roles within EU institutions and defence contractors in Brussels
 - **Currently building [Argus SOC](https://github.com/Al3grus/Argus-SOC)** — an AI-augmented Security 
   Operations Center on Raspberry Pi hardware
+  
 ---
+
 ## 🔐 Featured Work
 🛡️ **[Argus SOC](https://github.com/Al3grus/Argus-SOC)**  |  AI-augmented SOC on Raspberry Pi — 
 Wazuh · Suricata · Claude API triage · WireGuard MSSP topology *(in development)*
 
 📂 **[Cybersecurity Portfolio](https://github.com/Al3grus/Cybersecurity-Portfolio)**  |  Comprehensive documentation of my red team and blue team projects and tools
 
-✍️ **[Blog](https://al3grus.github.io)**  |  CTF writeups, certifications & cybersecurity project documentation
+✍️ **[Blog](https://al3grus.github.io)**  |  CTF writeups, certifications & cybersecurity project 
+documentation
 
 🏆 **TryHackMe**: Top 4% globally (3M+ users)  |  [Profile](https://tryhackme.com/p/Al3grus)
+
 ---
+
 ## 🖥️ Home Lab — Argus SOC
 Three-tier AI-augmented SOC that mirrors real MSSP/MDR infrastructure. Phases 0–4 complete — five red team scenarios executed with detection engineering remediation.
 
