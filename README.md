@@ -26,16 +26,10 @@ documentation
 
 ---
 
-## 🖥️ Home Lab — Argus SOC
-Three-tier AI-augmented SOC that mirrors real MSSP/MDR infrastructure. Phases 0–4 complete — five red team scenarios executed with detection engineering remediation.
+## 🖥️ **Home-Lab** Currently building a four-tier AI-augmented SOC that mirrors real MSSP/MDR infrastructure
 
-**[Argus SOC](https://github.com/Al3grus/Argus-SOC)**
-
-- **Hetzner VPS (argus-soc)** — Cloud SOC platform: Wazuh SIEM (Manager + Indexer + Dashboard), 
-  n8n workflow engine, Velociraptor DFIR, Claude API alert triage. Server in Helsinki, Finland — GDPR compliant.
-- **Pi 5 (argus-central)** — Client infrastructure: Pi-hole DNS, WireGuard VPN server, 
-  Grafana dashboards, MediaMTX RTSP streaming, Frigate AI camera detection, Metasploitable 2 + DVWA (Docker)
-- **Pi 3B+ (argus-edge-01)** — MSSP remote edge sensor: Wazuh Agent, Suricata NIDS (SPAN port), 
-  Zeek protocol analysis, Cowrie SSH honeypot, Velociraptor agent
-- **Cisco SG300-10MP** — Managed switch with hardware SPAN port mirroring for full network visibility
-- **ThinkPad T480 (red team)** — Kali Linux VM, simulating an external attacker
+- **Argus SOC** | [https://github.com/Al3grus/Argus-SOC](https://github.com/Al3grus/Argus-SOC) (in development)
+- **Hetzner VPS (argus-soc)** — Cloud SOC platform: Wazuh SIEM (Manager + Indexer + Dashboard), detection rule tuning, dashboard interpretation, false positive reduction, n8n workflow engine automated SOC workflows and alert routing, Velociraptor DFIR, Claude API alert triage
+- **ThinkCentre M920x (argus-hypervisor)** — Proxmox virtualisation host: Active Directory domain (Windows Server 2022 DC, Windows 11 domain-joined workstation), Kerberos/GPO/DNS configuration, vulnerable target VMs (Metasploitable 2, DVWA)
+- **Pi 5 (argus-central)** — MSSP edge sensor + admin: Suricata NIDS (SPAN port mirroring via Cisco SG300), Zeek protocol analysis, Cowrie SSH honeypot, Wazuh Agent, Velociraptor agent, Pi-hole DNS, WireGuard VPN, Grafana dashboards
+- **Pi 3B+ (argus-edge-01)** — Physical security sensor: MediaMTX RTSP streaming, Frigate AI object detection, OV5647 camera feed integrated into SOC pipeline
