@@ -7,15 +7,17 @@ Security professional with a background in high-security operational environment
 ---
 
 ## 🎯 What I'm Focused On
+
 - Targeting SOC Analyst and Security Operations roles within EU institutions and defence contractors in Brussels
-- **Currently building [Argus SOC](https://github.com/Al3grus/Argus-SOC)** — an AI-augmented Security 
-  Operations Center on Raspberry Pi hardware
+- **Currently building [Argus SOC](https://github.com/Al3grus/Argus-SOC)** — an AI-augmented Security
+  Operations Center with Active Directory monitoring, Proxmox virtualisation, and MSSP edge sensor deployment
   
 ---
 
 ## 🔐 Featured Work
-🛡️ **[Argus SOC](https://github.com/Al3grus/Argus-SOC)**  |  AI-augmented SOC on Raspberry Pi — 
-Wazuh · Suricata · Claude API triage · WireGuard MSSP topology *(in development)*
+
+🛡️ **[Argus SOC](https://github.com/Al3grus/Argus-SOC)**  |  AI-augmented SOC — Active Directory
+detection engineering · Wazuh · Suricata · Proxmox · Claude API triage · MSSP topology *(in development)*
 
 📂 **[Cybersecurity Portfolio](https://github.com/Al3grus/Cybersecurity-Portfolio)**  |  Comprehensive documentation of my red team and blue team projects and tools
 
