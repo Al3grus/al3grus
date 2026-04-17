@@ -26,7 +26,9 @@ documentation
 
 ---
 
-## 🖥️ **Home-Lab** Currently building a four-tier AI-augmented SOC that mirrors real MSSP/MDR infrastructure
+## 🖥️ **Home-Lab** 
+
+Currently building a four-tier AI-augmented SOC that mirrors real MSSP/MDR infrastructure
 
 - **Argus SOC** | [https://github.com/Al3grus/Argus-SOC](https://github.com/Al3grus/Argus-SOC) (in development)
 - **Hetzner VPS (argus-soc)** — Cloud SOC platform: Wazuh SIEM (Manager + Indexer + Dashboard), detection rule tuning, dashboard interpretation, false positive reduction, n8n workflow engine automated SOC workflows and alert routing, Velociraptor DFIR, Claude API alert triage
