@@ -9,14 +9,13 @@ Security professional with a background in high-security operational environment
 ## 🎯 What I'm Focused On
 
 - Targeting SOC Analyst and Security Operations roles within EU institutions and defence contractors in Brussels
-- **Currently building [Argus SOC](https://github.com/Al3grus/Argus-SOC)** — an AI-augmented Security
-  Operations Center with Active Directory monitoring, Proxmox virtualisation, and MSSP edge sensor deployment
+- **Currently building [Argus SOC](https://github.com/Al3grus/Argus-SOC)** — an AI-Augmented Home Lab Security Operations Center with Active Directory monitoring, Proxmox virtualisation, and MSSP edge sensor deployment
   
 ---
 
 ## 🔐 Featured Work
 
-🛡️ **[Argus SOC](https://github.com/Al3grus/Argus-SOC)**  |  AI-augmented SOC — Active Directory
+🛡️ **[Argus SOC](https://github.com/Al3grus/Argus-SOC)**  |  AI-Augmented Home Lab Security Operations Center — Active Directory
 detection engineering · Wazuh · Suricata · Proxmox · Claude API triage · MSSP topology *(in development)*
 
 📂 **[Cybersecurity Portfolio](https://github.com/Al3grus/Cybersecurity-Portfolio)**  |  Comprehensive documentation of my red team and blue team projects and tools
@@ -30,7 +29,7 @@ documentation
 
 ## 🖥️ **Home-Lab** 
 
-Currently building a three-tier AI-augmented SOC that mirrors real MSSP/MDR infrastructure
+Currently building a three-tier AI-Augmented Home Lab Security Operations Center that mirrors real MSSP/MDR infrastructure
 
 - **Argus SOC** | [https://github.com/Al3grus/Argus-SOC](https://github.com/Al3grus/Argus-SOC) (in development)
 - **Hetzner VPS (argus-soc)** — Cloud SOC platform: Wazuh SIEM (Manager + Indexer + Dashboard), detection rule tuning, dashboard interpretation, false positive reduction, n8n workflow engine automated SOC workflows and alert routing, Velociraptor DFIR, Claude API alert triage
