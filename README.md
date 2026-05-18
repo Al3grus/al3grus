@@ -2,7 +2,9 @@
 
 `Junior Cybersecurity Analyst | Security Operations | eJPT 97% | Brussels`
 
-Security professional with a background built across regulated financial environments - cryptographic key lifecycle and PKI operations at Mastercard (dual-control, PCI-DSS), and OSINT-driven enhanced due diligence at Binance. Currently focused on Security Operations: SIEM detection engineering, AI-augmented alert triage, DFIR, and red-team methodology, with hands-on practice in a home lab built to mirror real MSSP infrastructure.
+Security professional with a background built across regulated financial environments - cryptographic key lifecycle and PKI operations at Mastercard (dual-control, PCI-DSS), and OSINT-driven enhanced due diligence at Binance.
+
+Currently focused on Security Operations: SIEM detection engineering, AI-augmented alert triage, DFIR, and red-team methodology, with hands-on practice in a home lab built to mirror real MSSP infrastructure.
 
 eJPT (97%) and ISC² CC certified. EU national, Brussels-based, eligible for EU SECRET security clearance. Active on CyberDefenders, TryHackMe (top 4% globally), and Hack The Box.
 
