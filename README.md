@@ -1,8 +1,10 @@
 # Hi there, I'm Ricardo 👋
 
-```Cybersecurity Analyst | eJPT 97% | Security Operations | Mastercard · Binance | Brussels```
+`Junior Cybersecurity Analyst | Security Operations | eJPT 97% | Brussels`
 
-Security professional with a background in high-security operational environments at Mastercard (cryptographic operations, PKI, PCI compliance) and Binance (AML/KYC fraud investigation, OSINT, pattern analysis and risk escalation). I completed an intensive 6-month cybersecurity bootcamp covering SOC workflows, SIEM operations, PCAP analysis, digital forensics, incident response, and MITRE ATT&CK framework, alongside networking fundamentals and red team methodologies. I hold the eJPT certification (97% score) and ISC2 Certified in Cybersecurity (CC). EU national (Portuguese), Brussels-based, and eligible for EU SECRET security clearance.
+Security professional with a background built across regulated financial environments - cryptographic key lifecycle and PKI operations at Mastercard (dual-control, PCI-DSS), and OSINT-driven enhanced due diligence at Binance. Currently focused on Security Operations: SIEM detection engineering, AI-augmented alert triage, DFIR, and red-team methodology, with hands-on practice in a home lab built to mirror real MSSP infrastructure.
+
+eJPT (97%) and ISC² CC certified. EU national, Brussels-based, eligible for EU SECRET security clearance. Active on CyberDefenders, TryHackMe (top 4% globally), and Hack The Box.
 
 ---
 
