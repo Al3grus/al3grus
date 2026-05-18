@@ -30,10 +30,9 @@ documentation
 
 ## 🖥️ **Home-Lab** 
 
-Currently building a four-tier AI-augmented SOC that mirrors real MSSP/MDR infrastructure
+Currently building a three-tier AI-augmented SOC that mirrors real MSSP/MDR infrastructure
 
 - **Argus SOC** | [https://github.com/Al3grus/Argus-SOC](https://github.com/Al3grus/Argus-SOC) (in development)
 - **Hetzner VPS (argus-soc)** — Cloud SOC platform: Wazuh SIEM (Manager + Indexer + Dashboard), detection rule tuning, dashboard interpretation, false positive reduction, n8n workflow engine automated SOC workflows and alert routing, Velociraptor DFIR, Claude API alert triage
 - **ThinkCentre M920x (argus-hypervisor)** — Proxmox virtualisation host: Active Directory domain (Windows Server 2022 DC, Windows 11 domain-joined workstation), Kerberos/GPO/DNS configuration, vulnerable target VMs (Metasploitable 2, DVWA)
 - **Pi 5 (argus-central)** — MSSP edge sensor + admin: Suricata NIDS (SPAN port mirroring via Cisco SG300), Zeek protocol analysis, Cowrie SSH honeypot, Wazuh Agent, Velociraptor agent, Pi-hole DNS, WireGuard VPN, Grafana dashboards
-- **Pi 3B+ (argus-edge-01)** — Physical security sensor: MediaMTX RTSP streaming, Frigate AI object detection, OV5647 camera feed integrated into SOC pipeline
