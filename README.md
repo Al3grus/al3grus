@@ -1,6 +1,6 @@
 # Hi there, I'm Ricardo 👋
 
-`Junior Cybersecurity Analyst | Security Operations | eJPT 97% | Brussels`
+`Security Operations | Cybersecurity | Blockchain & Fintech | IT | eJPT`
 
 Security professional with a background built across regulated financial environments - cryptographic key lifecycle and PKI operations at Mastercard (dual-control, PCI-DSS), and OSINT-driven enhanced due diligence at Binance.
 
