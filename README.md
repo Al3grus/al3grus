@@ -6,7 +6,7 @@ Security professional with a background built across regulated financial environ
 
 Currently focused on Security Operations: SIEM detection engineering, AI-augmented alert triage, DFIR, and red-team methodology, with hands-on practice in a home lab built to mirror real MSSP infrastructure.
 
-eJPT (97%) and ISC² CC certified. EU national, Brussels-based, eligible for EU SECRET security clearance. Active on CyberDefenders, TryHackMe (top 4% globally), and Hack The Box.
+eJPT (97%) certified. EU national, Brussels-based, eligible for EU SECRET security clearance. Active on CyberDefenders, TryHackMe (top 4% globally), and Hack The Box.
 
 ---
 
