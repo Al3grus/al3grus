@@ -1,18 +1,22 @@
 # Hi there, I'm Ricardo 👋
 
-`Cybersecurity | Security Operations | Blockchain & Fintech | eJPT certified (97%)`
+`Cybersecurity | Security Operations | eJPT certified (97%)`
 
-Security professional with a background built across regulated financial environments - cryptographic key lifecycle and PKI operations at Mastercard (dual-control, PCI-DSS), and OSINT-driven enhanced due diligence at Binance.
+Security professional with a background in high-security operational environments at Mastercard (cryptographic operations, PKI, PCI compliance), at Binance (AML/KYC fraud investigation, OSINT, pattern analysis and risk escalation), and customer-facing roles.
+ 
+At Binance, my work included enhanced due diligence, blockchain and on-chain tracing, and the detection of synthetic-identity and deepfake fraud, with high-risk cases escalated within a high-volume, AML/CFT-regulated environment.
+ 
+At Mastercard, I was part of the information security operations team, focusing on cryptographic key lifecycle management under On-Behalf Key Management (OBKM) and PKI services, certificate workflows, and PCI-DSS compliance within a strict dual-control environment.
+ 
+In 2025, I completed an intensive six-month cybersecurity bootcamp covering SOC, SIEM, DFIR, MITRE ATT&CK, and red-team methodology, and earned the eJPT (97%) certification. I continue to develop my skills through home-lab projects, currently building an AI-augmented detection pipeline (Wazuh, Suricata, n8n, Claude API).
 
-Currently focused on Security Operations: SIEM detection engineering, AI-augmented alert triage, DFIR, and red-team methodology, with hands-on practice in a home lab built to mirror real MSSP infrastructure.
-
-eJPT (97%) certified. EU national, Brussels-based, eligible for EU SECRET security clearance. Active on CyberDefenders, TryHackMe (top 4% globally), and Hack The Box.
+🌍 Fluent in Portuguese (native), English, and Spanish
 
 ---
 
 ## 🎯 What I'm Focused On
 
-- Targeting SOC Analyst and Security Operations roles within EU institutions and defence contractors in Brussels
+- Open to roles in cybersecurity, security operations, blockchain, fintech and IT, on a remote basis across the EU or hybrid in Brussels.
 - **Currently building [Argus SOC](https://github.com/Al3grus/Argus-SOC)** - an AI-Augmented Home Lab Security Operations Center with Active Directory monitoring, Proxmox virtualisation, and MSSP edge sensor deployment
   
 ---
