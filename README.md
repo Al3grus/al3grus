@@ -1,4 +1,4 @@
-# Hi there, I'm Ricardo 👋
+# Hi there 👋
 
 `Cybersecurity | Security Operations | eJPT certified (97%)`
 
