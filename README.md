@@ -10,15 +10,6 @@ At Mastercard, I was part of the information security operations team, focusing 
  
 In 2025, I completed an intensive six-month cybersecurity bootcamp covering SOC, SIEM, DFIR, MITRE ATT&CK, and red-team methodology, and earned the eJPT (97%) certification. I continue to develop my skills through home-lab projects, currently building an AI-augmented detection pipeline (Wazuh, Suricata, n8n, Claude API).
 
-🌍 Fluent in Portuguese (native), English, and Spanish
-
----
-
-## 🎯 What I'm Focused On
-
-- Open to roles in cybersecurity, security operations, blockchain, fintech and IT, on a remote basis across the EU or hybrid in Brussels.
-- **Currently building [Argus SOC](https://github.com/Al3grus/Argus-SOC)** - an AI-Augmented Home Lab Security Operations Center with Active Directory monitoring, Proxmox virtualisation, and MSSP edge sensor deployment
-  
 ---
 
 ## 🔐 Featured Work
