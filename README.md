@@ -38,4 +38,4 @@ Currently building a three-tier AI-Augmented Home Lab Security Operations Center
 
 ## 🛠️ Also Building
 
-📱 **[Corlang](https://www.corlang.app)**  |  Privacy-first language learning app that collects nothing — AI tutor, prepares users for citizenship, work & language exams
+📱 **[Corlang](https://www.corlang.app)**  |  Language learning app — Prepares users for citizenship, work & language exams | on-device data · no accounts, no ads, no tracking · optional AI tutor
