@@ -19,8 +19,7 @@ detection engineering · Wazuh · Suricata · Proxmox · Claude API triage · MS
 
 📂 **[Cybersecurity Portfolio](https://github.com/Al3grus/Cybersecurity-Portfolio)**  |  Comprehensive documentation of my red team and blue team projects and tools
 
-✍️ **[Blog](https://al3grus.github.io)**  |  CTF writeups, certifications & cybersecurity project 
-documentation
+✍️ **[Blog](https://al3grus.github.io)**  |  Cybersecurity projects documentation, CTF writeups and certifications
 
 🏆 **TryHackMe**: Top 4% globally (3M+ users)  |  [Profile](https://tryhackme.com/p/Al3grus)
 
@@ -34,3 +33,9 @@ Currently building a three-tier AI-Augmented Home Lab Security Operations Center
 - **Hetzner VPS (argus-soc)** — Cloud SOC platform: Wazuh SIEM (Manager + Indexer + Dashboard), detection rule tuning, dashboard interpretation, false positive reduction, n8n workflow engine automated SOC workflows and alert routing, Velociraptor DFIR, Claude API alert triage
 - **ThinkCentre M920x (argus-hypervisor)** — Proxmox virtualisation host: Active Directory domain (Windows Server 2022 DC, Windows 11 domain-joined workstation), Kerberos/GPO/DNS configuration, vulnerable target VMs (Metasploitable 2, DVWA)
 - **Pi 5 (argus-central)** — MSSP edge sensor + admin: Suricata NIDS (SPAN port mirroring via Cisco SG300), Zeek protocol analysis, Cowrie SSH honeypot, Wazuh Agent, Velociraptor agent, Pi-hole DNS, WireGuard VPN, Grafana dashboards
+
+---
+
+## 🛠️ Also Building
+
+📱 **[Corlang](https://www.corlang.app)**  |  Privacy-first language learning app that collects nothing — AI tutor, prepares users for citizenship, work & language exams
