@@ -21,7 +21,7 @@ detection engineering · Wazuh · Suricata · Proxmox · Claude API triage · MS
 
 ✍️ **[Blog](https://al3grus.github.io)**  |  Cybersecurity projects documentation, CTF writeups and certifications
 
-🏆 **TryHackMe**: Top 4% globally (3M+ users)  |  [Profile](https://tryhackme.com/p/Al3grus)
+🏆 **TryHackMe**: Top 3% globally  |  [Profile](https://tryhackme.com/p/Al3grus)
 
 ---
 
